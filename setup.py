@@ -63,5 +63,5 @@ setup(
 
     packages=get_packages('django_svgselect'),
     package_data=get_package_data('django_svgselect'),
-    install_requires=['django'],
+    install_requires=[],
 )
