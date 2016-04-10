@@ -35,7 +35,7 @@ with open(os.path.join(here, 'README.rst'), encoding='utf-8') as f:
 
 setup(
     name='django_svgselect',
-    version='0.9.0b1',
+    version='0.9.1',
 
     description='A Django form widget that uses SVG files in place of Select widgets.',
     long_description=long_description,
